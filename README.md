@@ -16,7 +16,9 @@ Implemented 3 algorithms:
 
 ## Results
 
+![test_1_results](./assets/test1_results.png)
 
+![test_2_results](./assets/test2_results.png)
 
 ## MPEG-4 obect based coding realization through foreground extraction
 
