@@ -11,10 +11,12 @@ Given below is an illustration for workflow for the solution:
 Implemented 3 algorithms:
 1. Otsu's thresholding
 2. Grabcut with Otsu's Thresholding Mask initialization
-3. K-Means segmentation
-4. Grabcut with DeepLabv3 Segmentation as Mask initialization
+3. Grabcut with K-Means segmentation Mask initialization
+4. DeepLabv3 Segmentation as Mask initialization
 
 ## Results
+
+
 
 ## MPEG-4 obect based coding realization through foreground extraction
 
